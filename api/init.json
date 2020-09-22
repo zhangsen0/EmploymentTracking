@@ -124,13 +124,8 @@
               "href": "page/employment/agreementBook.html",
               "icon": "fa fa-navicon",
               "target": "_self"
-            },
-            {
-              "title": "改派管理",
-              "href": "page/form-step.html",
-              "icon": "fa fa-navicon",
-              "target": "_self"
             }
+          
           ]
         }
 
